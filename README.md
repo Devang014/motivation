@@ -1,0 +1,2 @@
+# motivation
+Motivation for myself
